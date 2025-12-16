@@ -13,4 +13,4 @@ Personally, the problems were quite difficult for beginners, but I found it to b
 
 ## Link to resource
 
-* (CS50P)[https://pll.harvard.edu/course/cs50s-introduction-programming-python]
+* [CS50P](https://pll.harvard.edu/course/cs50s-introduction-programming-python)
