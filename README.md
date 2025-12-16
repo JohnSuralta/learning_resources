@@ -15,14 +15,14 @@ contains a link to the resource and the problems sets I have done.
 
 ---
 
-## Languages
+# Languages
 
 Click on a language to explore the directory:
 
-* ### [Python](./python)
+* [Python](./python)
 
-* ### [C++](./cpp)
+* [C++](./cpp)
 (coming soon)
 
-* ### [C](./c)
+* [C](./c)
 (coming soon)
